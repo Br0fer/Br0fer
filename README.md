@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Ukraine, Lviv
 * ✉️  You can contact me at [retr0v1z0r@proton.me](mailto:retr0v1z0r@proton.me)
-* 🧠  I'm learning FastAPI
+* 🧠  I'm learning Django
 
 ### Skills
 
